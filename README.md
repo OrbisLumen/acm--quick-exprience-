@@ -12,7 +12,11 @@ During the course, I learned a lot and met a master named `c1ampy`.
 A check program for coding with acm
     
     ./crash course cpp for acm
-A series quick brief of knowledge acm required written by `c1ampy` (master)
+A series quick brief of knowledge acm required written by `c1ampy` (master).
+
+[Click here to see his page](https://github.com/c1ampy)
+
+Thanks him very much.
 
 ---
 
