@@ -7,6 +7,15 @@ During the course, I learned a lot and met a master named `c1ampy`.
 
 ---
 
+## Resources
+    ./check
+A check program for coding with acm
+    
+    ./crash course cpp for acm
+A series quick brief of knowledge acm required written by `c1ampy` (master)
+
+---
+
 ## Diary
 
 ### 3.2
