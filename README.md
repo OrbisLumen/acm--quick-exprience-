@@ -19,7 +19,7 @@ A series quick brief of knowledge acm required written by `c1ampy` (master).
 Thanks him very much.
 
     ./diary
-[A diary for the short journey.](https://github.com/OrbisLumen/acm--quick-exprience-/blob/master/diary/diary.md)
+[A diary for the short journey](https://github.com/OrbisLumen/acm--quick-exprience-/blob/master/diary/diary.md)
 
 
 [Click here to see c1ampy’s diary](https://www.luogu.com/article/4ggffrri)
