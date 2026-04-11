@@ -130,7 +130,7 @@ The finals were about to begin.
 
 ---
 
-### Aftermath
+### Aftermatch
 
 It was a final full of pressure, frustration, breakthroughs, and small moments of clarity.
 
